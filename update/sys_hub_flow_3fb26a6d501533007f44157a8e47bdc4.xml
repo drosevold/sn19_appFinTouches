@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>move_to_post_conference_review</internal_name>
+        <label_cache>[{"name":"0282b16b-b9c0-42f1-b8af-d77f5000aab3.Records","label":"1➛Records","reference_display":"Records","type":"records","base_type":"records"},{"name":"0282b16b-b9c0-42f1-b8af-d77f5000aab3.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"0282b16b-b9c0-42f1-b8af-d77f5000aab3.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"Daily_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Move to Post Conference Review</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 21:47:43</sys_created_on>
+        <sys_id>3fb26a6d501533007f44157a8e47bdc4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Move to Post Conference Review</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conference_u">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_scope>
+        <sys_update_name>sys_hub_flow_3fb26a6d501533007f44157a8e47bdc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 22:01:00</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=3fb26a6d501533007f44157a8e47bdc4"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3fb26a6d501533007f44157a8e47bdc4"/>
+</record_update>

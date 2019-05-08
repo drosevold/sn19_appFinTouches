@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>Conference Request</name>
+        <short_description>Notifications for the Conference Request app</short_description>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 20:43:36</sys_created_on>
+        <sys_id>6df31629501533007f44157a8e47bdda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference Request</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conference_u">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_scope>
+        <sys_update_name>sys_notification_category_6df31629501533007f44157a8e47bdda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 20:43:36</sys_updated_on>
+    </sys_notification_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=6df31629501533007f44157a8e47bdda"/>
+</record_update>
